@@ -26,7 +26,7 @@ Imperial44 v4 combines futuristic styling, a compact form factor, and practical 
 ### Wireless Edition
 - Powered by nRF52840 and RMK/ZMK firmware
 - Bluetooth connectivity for up to 6 devices
-- 120 mAh battery with up to 3 weeks of use
+- Rechargeable 120 mAh battery
 - USB-C connection
 
 ![Imperial44 WE Layouts](images/Imperial_v4_En.png)
