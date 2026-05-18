@@ -41,6 +41,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 | --- | ---: |
 | Imperial44 v4 PCB | 1 |
 | RP2040 MCU, LQFN-56 | 2 |
+| OLED SSD1306 Display, 128x32, DSP-OLED-128X32 | 2 |
 | MX hotswap sockets | 44 |
 | 1N4148W diodes, SOD-523F | 44 |
 | Resistor 0402 5.1 kΩ | 8 |
