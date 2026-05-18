@@ -1,14 +1,13 @@
 ## Imperial44 is a compact split mechanical keyboard with three thumb keys on each half and support for hot-swappable encoders on either side
 
-*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across three versions: the Wired Edition, the Wireless Edition, and the Wireless Metal Edition*
+*Imperial44 keeps a 40% footprint, a 44-key layout, and clean ergonomics across two versions: the Wired Edition and the Wireless Edition*
 
 ![Imperial44 v4](images/imp44v4.png)
 
 ## Design philosophy
-Imperial44 v4 combines futuristic styling, a compact form factor, and practical ergonomics. The Wired Edition is built for a feature-rich daily setup, the Wireless Edition adds Bluetooth portability, and the Wireless Metal Edition brings the same idea into a premium aluminum body
+Imperial44 v4 combines futuristic styling, a compact form factor, and practical ergonomics. The Wired Edition is built for a feature-rich daily setup, and the Wireless Edition adds Bluetooth portability
 
 ![Imperial44 WE](images/imp44-we.png)
-![Imperial44 ME](images/imp44-me.png)
 
 ## Features
 - Split, ergonomic design
@@ -104,7 +103,6 @@ The files in this repository are licensed under the Creative Commons Attribution
   - [Case for 3D printing (STL)](stls/imperial44-we)
   - [Case model for editing (STEP)](step/imperial44-we)
   - [Circuit schematic](https://oshwlab.com/yuriiq/)
-  - [Case model for Metal Edition (CNC)](cnc)
 
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
