@@ -98,12 +98,12 @@ The files in this repository are licensed under the Creative Commons Attribution
 - Imperial44 v4:
   - [Case for 3D printing (STL)](stls/imperial44v4)
   - [Case model for editing (STEP)](step/imperial44v4)
-  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/project_bbnvyuoz)
 
 - Imperial44 v4 – Wireless Edition:
   - [Case for 3D printing (STL)](stls/imperial44-we)
   - [Case model for editing (STEP)](step/imperial44-we)
-  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+  - [Circuit schematic](https://oshwlab.com/yuriiq/project_cyacdcfv)
 
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
