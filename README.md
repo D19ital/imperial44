@@ -86,6 +86,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 | AP2112K-3.3TRG1 LDO regulator, SOT-23-5 | 2 |
 | SMD USB connector USB-TYPE-C-018 | 2 |
 | TS5235A 250gf 025 SMD tactile switch | 2 |
+| Li-Pol JST ACH-1.0mm, 3.7V, 120mAh, 401230 | 2 |
 | 3M bumpons (8 mm) | 8 |
 | MagSafe ring (optional) | 2 |
 | Plexiglass window for case (optional) | 2 |
