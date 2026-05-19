@@ -89,7 +89,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
 | Li-Pol JST ACH-1.0mm, 3.7V, 120mAh, 401230 | 2 |
 | 3M bumpons (8 mm) | 8 |
 | MagSafe ring (optional) | 2 |
-| Plexiglass window for case (optional) | 2 |
+| Plexiglass window for case, 24x23 mm (optional) | 2 |
 
 ## License
 The files in this repository are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
